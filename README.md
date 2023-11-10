@@ -13,9 +13,9 @@ Press `Space` to pause the game or restart after a round.
 
 ## How it Looks Like
 
-<img src="/assets/Ui.png" alt="Menu">
+<img src="/assets/Ui.png" alt="Menu" width="300" height="300">
 
-<img src="/assets/Game.png" alt="Game Image">
+<img src="/assets/Game.png" alt="Game Image" width="300" height="300">
 
 ## Installation
 This project is written in Python3 with the Pygame library. To run this project, you need to have Python3 and Pygame installed on your computer.
